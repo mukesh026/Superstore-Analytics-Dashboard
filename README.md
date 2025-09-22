@@ -5,7 +5,7 @@
 ![Data Modeling](https://img.shields.io/badge/Skills-Data%20Modeling-green)  
 ![Business Insights](https://img.shields.io/badge/Focus-Business%20Analytics-orange)  
 
-![Superstore Analytics Dashboard](/Main.png)
+![Superstore Analytics Dashboard](/Images/Main.png)
   
 
 🔗 <a href="https://app.powerbi.com/view?r=eyJrIjoiZjAwY2Y0ZDQtM2QzNi00MWFjLWE2MzMtMDVlNGI5ZjhkZDJlIiwidCI6IjE3ZDA1NDhhLTU2ZDYtNGY4NC05MWY3LTJjYTE5ZDgzM2Q4YyJ9" target="_blank">View the interactive dashboard on Power BI Service</a>
@@ -45,7 +45,7 @@ The interactive dashboard answers:
 ## 🗄️ Data Model  
 The dataset includes three key tables:  
 
-![Data Model](/Data%20Model.png)
+![Data Model](/Images/Data%20Model.png)
 
 - **Orders** → Order details (Order ID, Product, Segment, State, Sales, Profit).  
 - **Returns** → Returned orders (Order ID, Return Flag).  
@@ -63,27 +63,27 @@ The dataset includes three key tables:
 
 ### 🔹 KPI Cards (vs Previous Year) 
 
-![KPI Cards](/KPI.png)
+![KPI Cards](/Images/KPI.png)
  
 
 ### 🔹 Sales vs Previous Year Over Time  
 
-![Sales vs Previous Year Over Time](/Sales%20vs%20Previous%20Year%20Over%20Time.png)
+![Sales vs Previous Year Over Time](Images//Sales%20vs%20Previous%20Year%20Over%20Time.png)
 
 
 ### 🔹 Profit by Product  
 
-![Profit by Product](/Profit%20by%20Product.png)
+![Profit by Product](Images//Profit%20by%20Product.png)
  
 
 ### 🔹 Profitability by Geography  
 
-![Profitability by Geography](/Profitability%20by%20Geography.png)
+![Profitability by Geography](Images//Profitability%20by%20Geography.png)
  
 
 ### 🔹 Segment Analysis  
 
-![Segment Analysis](/Segment%20Analysis.png)
+![Segment Analysis](Images//Segment%20Analysis.png)
 
 
 ---

@@ -6,7 +6,7 @@ This document summarizes the **key findings** derived from the Superstore Analyt
 
 ## 1. 📈 Sales & Profit Performance  
 
-![KPI Cards](/KPI.png)
+![KPI Cards](/Images/KPI.png)
 
 - **Total Sales**: $2.33M (↑ 47.16% YoY).  
 - **Total Profit**: $292.3K (↑ 48.85% YoY).  
@@ -19,7 +19,7 @@ This document summarizes the **key findings** derived from the Superstore Analyt
 
 ## 2. 📊 Sales Trend (vs Previous Year)  
 
-![Sales vs Previous Year Over Time](/Sales%20vs%20Previous%20Year%20Over%20Time.png)
+![Sales vs Previous Year Over Time](/Images/Sales%20vs%20Previous%20Year%20Over%20Time.png)
 
 - Sales show an **upward trend** with clear **seasonality spikes** in certain months.  
 - Performance **consistently outpaces previous year**, signaling effective sales strategies.  
@@ -28,7 +28,7 @@ This document summarizes the **key findings** derived from the Superstore Analyt
 
 ## 3. 💡 Product Profitability  
 
-![Profit by Product](/Profit%20by%20Product.png)
+![Profit by Product](Images//Profit%20by%20Product.png)
 
 - **Most Profitable Product**: Copiers (+$56K).  
 - **Most Loss-Making Product**: Tables (-$17.7K).  
@@ -40,7 +40,7 @@ This document summarizes the **key findings** derived from the Superstore Analyt
 
 ## 4. 🌍 Regional Profitability  
 
-![Profitability by Geography](/Profitability%20by%20Geography.png)
+![Profitability by Geography](Images//Profitability%20by%20Geography.png)
 
 - **Top 3 Profitable States**: California, New York, Washington.  
 - **Top 3 Loss-Making States**: Pennsylvania, Ohio, Texas.  
@@ -51,7 +51,7 @@ This document summarizes the **key findings** derived from the Superstore Analyt
 
 ## 5. 🎯 Customer Segment Insights  
 
-![Segment Analysis](/Segment%20Analysis.png)
+![Segment Analysis](Images//Segment%20Analysis.png)
 
 - **Sales Contribution**:  
   - Consumer → 50.32%  
