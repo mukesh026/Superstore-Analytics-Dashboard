@@ -1,9 +1,5 @@
 # 📊 Superstore Analytics Project  
 
-![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi)  
-![DAX](https://img.shields.io/badge/Language-DAX-blue)  
-![Data Modeling](https://img.shields.io/badge/Skills-Data%20Modeling-green)  
-![Business Insights](https://img.shields.io/badge/Focus-Business%20Analytics-orange)  
 
 ![Superstore Analytics Dashboard](/Images/Main.png)
   
